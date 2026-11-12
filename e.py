@@ -5,3 +5,4 @@ class ClassName:
     self.attribute3=value3
     def_method_name(self,other_parameters):
     object_name=ClassName(arguments)
+    objecr_name=ClassName(arguments)
